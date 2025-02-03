@@ -121,7 +121,7 @@ Main Menu Options
 python --version
 ```
 
-- Try python3 habits.py if python habits.py fails.
+- Try python3 main.py if python main.py fails.
 - Ensure the main.py file and SQLite database are in the same directory.
 
 ### Database Issues:
